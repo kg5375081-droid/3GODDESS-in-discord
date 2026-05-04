@@ -20,3 +20,13 @@ yukseongma_data_with_aptitude.json은 육성마의 데이터를 불러오는 파
 
 !카드비교
 <img width="386" height="215" alt="image" src="https://github.com/user-attachments/assets/adfe77e2-f2e1-49e8-9418-6153c7bf4705" />
+
+개인용 적용방법은 
+
+1. 디스코드 개발자 포럼에 접속
+  # [https://discord.com/developers
+(https://discord.com/developers/home)
+
+2. 개발자 토큰 생성
+ 이건 
+
