@@ -1,0 +1,4114 @@
+{
+    "마루젠스키": [
+        {
+            "title": "[포뮬러 오브 루주]",
+            "url": "https://uma.inven.co.kr/db/chara/100401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[축복을 전하는 신속 선녀]",
+            "url": "https://uma.inven.co.kr/db/chara/100403",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[날아라☆서머 나이트]",
+            "url": "https://uma.inven.co.kr/db/chara/100402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "카츠라기에이스": [
+        {
+            "title": "[등용지정]",
+            "url": "https://uma.inven.co.kr/db/chara/110401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[아호・묵룡]",
+            "url": "https://uma.inven.co.kr/db/chara/110402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        }
+    ],
+    "미스터시비": [
+        {
+            "title": "[Clear Bliss]",
+            "url": "https://uma.inven.co.kr/db/chara/105701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[현란한 꽃길, 가무하는 그대]",
+            "url": "https://uma.inven.co.kr/db/chara/105702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "그래스원더": [
+        {
+            "title": "[바위 뚫는 파랑]",
+            "url": "https://uma.inven.co.kr/db/chara/101101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[푸른 불꽃의 명예]",
+            "url": "https://uma.inven.co.kr/db/chara/101103",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[세인트 제이드・힐러]",
+            "url": "https://uma.inven.co.kr/db/chara/101102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "윈바리아시옹": [
+        {
+            "title": "[드라마틱・튀튀]",
+            "url": "https://uma.inven.co.kr/db/chara/111701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "나리타탑로드": [
+        {
+            "title": "[The Proud Road]",
+            "url": "https://uma.inven.co.kr/db/chara/107701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "B",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[Celestial Road]",
+            "url": "https://uma.inven.co.kr/db/chara/107702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "B",
+                "추입": "D"
+            }
+        }
+    ],
+    "어드마이어베가": [
+        {
+            "title": "[Starry Nocturne]",
+            "url": "https://uma.inven.co.kr/db/chara/103301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[Glacialis Vega]",
+            "url": "https://uma.inven.co.kr/db/chara/103302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "B",
+                "추입": "A"
+            }
+        }
+    ],
+    "에어메사이어": [
+        {
+            "title": "[Inherited Hope]",
+            "url": "https://uma.inven.co.kr/db/chara/111101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "E"
+            }
+        }
+    ],
+    "나리타타이신": [
+        {
+            "title": "[Nevertheless]",
+            "url": "https://uma.inven.co.kr/db/chara/105001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "F",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[미광 오버라이드]",
+            "url": "https://uma.inven.co.kr/db/chara/105003",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "F",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[디퍼런스・엔지니어]",
+            "url": "https://uma.inven.co.kr/db/chara/105002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "F",
+                "선입": "B",
+                "추입": "A"
+            }
+        }
+    ],
+    "비와하야히데": [
+        {
+            "title": "[pf.Victory formula...]",
+            "url": "https://uma.inven.co.kr/db/chara/102301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[Engineered Victory]",
+            "url": "https://uma.inven.co.kr/db/chara/102303",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[노엘 루주・캐럴]",
+            "url": "https://uma.inven.co.kr/db/chara/102302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "E"
+            }
+        }
+    ],
+    "버블검펠로": [
+        {
+            "title": "[POPPING!]",
+            "url": "https://uma.inven.co.kr/db/chara/112401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "G"
+            }
+        }
+    ],
+    "마야노탑건": [
+        {
+            "title": "[스크램블☆존]",
+            "url": "https://uma.inven.co.kr/db/chara/102401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "B",
+                "추입": "B"
+            }
+        },
+        {
+            "title": "[록 인☆MewMeow]",
+            "url": "https://uma.inven.co.kr/db/chara/102403",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "B",
+                "추입": "B"
+            }
+        },
+        {
+            "title": "[선라이트・부케]",
+            "url": "https://uma.inven.co.kr/db/chara/102402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "B",
+                "추입": "B"
+            }
+        }
+    ],
+    "시킹더펄": [
+        {
+            "title": "[Rocket☆Star]",
+            "url": "https://uma.inven.co.kr/db/chara/104201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "A",
+                "추입": "B"
+            }
+        },
+        {
+            "title": "[Be♪Witched]",
+            "url": "https://uma.inven.co.kr/db/chara/104202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "뒤랑달": [
+        {
+            "title": "[Chevalier fidèle]",
+            "url": "https://uma.inven.co.kr/db/chara/112101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "F",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "C",
+                "추입": "A"
+            }
+        }
+    ],
+    "세자리오": [
+        {
+            "title": "[Future Weaver]",
+            "url": "https://uma.inven.co.kr/db/chara/111001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "젠노롭로이": [
+        {
+            "title": "[Heroic Author]",
+            "url": "https://uma.inven.co.kr/db/chara/104701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[Inlaid Stories]",
+            "url": "https://uma.inven.co.kr/db/chara/104702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "E"
+            }
+        }
+    ],
+    "네오유니버스": [
+        {
+            "title": "[Universe-Naut]",
+            "url": "https://uma.inven.co.kr/db/chara/110501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[Like “ZEER”]",
+            "url": "https://uma.inven.co.kr/db/chara/110502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "젠틸돈나": [
+        {
+            "title": "[Regina dei fiori]",
+            "url": "https://uma.inven.co.kr/db/chara/111601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "홋코타루마에": [
+        {
+            "title": "[스타・라이트・십]",
+            "url": "https://uma.inven.co.kr/db/chara/109901",
+            "track_aptitude": {
+                "잔디": "G",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[파스텔 마린・지역 아이돌]",
+            "url": "https://uma.inven.co.kr/db/chara/109902",
+            "track_aptitude": {
+                "잔디": "G",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "에이신플래시": [
+        {
+            "title": "[Meisterschaft]",
+            "url": "https://uma.inven.co.kr/db/chara/103701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[Reines Plätschern]",
+            "url": "https://uma.inven.co.kr/db/chara/103703",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[컬렉트・쇼콜라티에]",
+            "url": "https://uma.inven.co.kr/db/chara/103702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "칼스톤라이트오": [
+        {
+            "title": "[진실일로]",
+            "url": "https://uma.inven.co.kr/db/chara/112001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "D",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "C",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "라이스샤워": [
+        {
+            "title": "[로제스 드림]",
+            "url": "https://uma.inven.co.kr/db/chara/103001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Yummy Dreamy Fairy]",
+            "url": "https://uma.inven.co.kr/db/chara/103003",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Make up Vampire!]",
+            "url": "https://uma.inven.co.kr/db/chara/103002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "드림저니": [
+        {
+            "title": "[꿈길의 인연]",
+            "url": "https://uma.inven.co.kr/db/chara/111901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "정글포켓": [
+        {
+            "title": "[왕의 함성]",
+            "url": "https://uma.inven.co.kr/db/chara/109401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "D",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "스윕토쇼": [
+        {
+            "title": "[플라타너스・위치]",
+            "url": "https://uma.inven.co.kr/db/chara/104401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "D"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[리얼라이즈・룬]",
+            "url": "https://uma.inven.co.kr/db/chara/104402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "D"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "킹헤일로": [
+        {
+            "title": "[킹・오브・에메랄드]",
+            "url": "https://uma.inven.co.kr/db/chara/106101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[Evergreen Identity]",
+            "url": "https://uma.inven.co.kr/db/chara/106103",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[하얗고 고결한 격려의 복장]",
+            "url": "https://uma.inven.co.kr/db/chara/106102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "B",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "노스플라이트": [
+        {
+            "title": "[Looking Fly!]",
+            "url": "https://uma.inven.co.kr/db/chara/108201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "D",
+                "추입": "C"
+            }
+        }
+    ],
+    "아그네스타키온": [
+        {
+            "title": "[tach-nology]",
+            "url": "https://uma.inven.co.kr/db/chara/103201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[Σ Experiment]",
+            "url": "https://uma.inven.co.kr/db/chara/103203",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[Lunatic Lab]",
+            "url": "https://uma.inven.co.kr/db/chara/103202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "F"
+            }
+        }
+    ],
+    "슈퍼크릭": [
+        {
+            "title": "[머머링 스트림]",
+            "url": "https://uma.inven.co.kr/db/chara/104501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "G",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "B",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[자우화영]",
+            "url": "https://uma.inven.co.kr/db/chara/104503",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "G",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "B",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[쉬폰 리본 머미]",
+            "url": "https://uma.inven.co.kr/db/chara/104502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "G",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "B",
+                "추입": "G"
+            }
+        }
+    ],
+    "야에노무테키": [
+        {
+            "title": "[사백유성의 습격]",
+            "url": "https://uma.inven.co.kr/db/chara/107201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[흑장 Zen]",
+            "url": "https://uma.inven.co.kr/db/chara/107202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "사운즈오브어스": [
+        {
+            "title": "[Ritmo della Terra]",
+            "url": "https://uma.inven.co.kr/db/chara/110201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "E"
+            }
+        }
+    ],
+    "위닝티켓": [
+        {
+            "title": "[Go To Winning!]",
+            "url": "https://uma.inven.co.kr/db/chara/103501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Glorious Coat]",
+            "url": "https://uma.inven.co.kr/db/chara/103503",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Dream Deliverer]",
+            "url": "https://uma.inven.co.kr/db/chara/103502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "다이타쿠헬리오스": [
+        {
+            "title": "[Fun☆Fun☆파뤼나잇]",
+            "url": "https://uma.inven.co.kr/db/chara/106501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Joyful Jamboree!]",
+            "url": "https://uma.inven.co.kr/db/chara/106502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "다이이치루비": [
+        {
+            "title": "[화려한 홍옥]",
+            "url": "https://uma.inven.co.kr/db/chara/108501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "C",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "B",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[Flowing Blue]",
+            "url": "https://uma.inven.co.kr/db/chara/108502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "C",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "B",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "라인크라프트": [
+        {
+            "title": "[Dream Successor]",
+            "url": "https://uma.inven.co.kr/db/chara/110901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "트랜센드": [
+        {
+            "title": "[JJARIT-JJARIT GIZMO]",
+            "url": "https://uma.inven.co.kr/db/chara/108001",
+            "track_aptitude": {
+                "잔디": "F",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "이쿠노딕터스": [
+        {
+            "title": "[Mantle of Steel]",
+            "url": "https://uma.inven.co.kr/db/chara/106301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "D"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "두라멘테": [
+        {
+            "title": "[Red in Black]",
+            "url": "https://uma.inven.co.kr/db/chara/110801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "비코페가수스": [
+        {
+            "title": "[질풍 페가수스・영식]",
+            "url": "https://uma.inven.co.kr/db/chara/105401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "맨하탄카페": [
+        {
+            "title": "[Creeping Black]",
+            "url": "https://uma.inven.co.kr/db/chara/102501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "B",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[버들빛 밤]",
+            "url": "https://uma.inven.co.kr/db/chara/102502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "B",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "유키노비진": [
+        {
+            "title": "[귀엽고 귀여운 눈꽃]",
+            "url": "https://uma.inven.co.kr/db/chara/102901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[차 과자와 눈의 요정]",
+            "url": "https://uma.inven.co.kr/db/chara/102902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "비블로스": [
+        {
+            "title": "[Voyage étincelant]",
+            "url": "https://uma.inven.co.kr/db/chara/109101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "D",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "나이스네이처": [
+        {
+            "title": "[포인세티아・리본]",
+            "url": "https://uma.inven.co.kr/db/chara/106001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[소원의 겹옷]",
+            "url": "https://uma.inven.co.kr/db/chara/106003",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[RUN&WIN]",
+            "url": "https://uma.inven.co.kr/db/chara/106002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "키타산블랙": [
+        {
+            "title": "[금상・금화가마]",
+            "url": "https://uma.inven.co.kr/db/chara/106801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "C",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[결원의 마지막 꽃]",
+            "url": "https://uma.inven.co.kr/db/chara/106803",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "C",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[주역・경사스러운 학의 뜻]",
+            "url": "https://uma.inven.co.kr/db/chara/106802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "슈발그랑": [
+        {
+            "title": "[Grand itinéraire]",
+            "url": "https://uma.inven.co.kr/db/chara/108901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "G",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "B",
+                "추입": "F"
+            }
+        }
+    ],
+    "사토노크라운": [
+        {
+            "title": "[검은 옥이 천 리를 간다]",
+            "url": "https://uma.inven.co.kr/db/chara/108801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "메지로파머": [
+        {
+            "title": "[Line Breakthrough]",
+            "url": "https://uma.inven.co.kr/db/chara/106401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "F",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[진심인 순록 씨]",
+            "url": "https://uma.inven.co.kr/db/chara/106402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "메지로브라이트": [
+        {
+            "title": "[브뤼니사주・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/107401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "D",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[거룩한 밤 경사로운 스노우 롤리타]",
+            "url": "https://uma.inven.co.kr/db/chara/107402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "D",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "탭댄스시티": [
+        {
+            "title": "[GLITTER!]",
+            "url": "https://uma.inven.co.kr/db/chara/110701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "토카이테이오": [
+        {
+            "title": "[톱・오브・조이풀]",
+            "url": "https://uma.inven.co.kr/db/chara/100301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "C",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[자색 구름의 나비]",
+            "url": "https://uma.inven.co.kr/db/chara/100303",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "C",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[비욘드・더・호라이즌]",
+            "url": "https://uma.inven.co.kr/db/chara/100302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "C",
+                "추입": "E"
+            }
+        }
+    ],
+    "카와카미프린세스": [
+        {
+            "title": "[프린세스・오브・핑크]",
+            "url": "https://uma.inven.co.kr/db/chara/103901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[무사 요조숙녀]",
+            "url": "https://uma.inven.co.kr/db/chara/103902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "메지로라모누": [
+        {
+            "title": "[오닉스・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/108601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "심볼리크리스에스": [
+        {
+            "title": "[Onyx Soldier]",
+            "url": "https://uma.inven.co.kr/db/chara/108301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[Jetblack Automaton]",
+            "url": "https://uma.inven.co.kr/db/chara/108302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "에어샤커": [
+        {
+            "title": "[unsigned]",
+            "url": "https://uma.inven.co.kr/db/chara/103601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[Belphegor's Prime]",
+            "url": "https://uma.inven.co.kr/db/chara/103602",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "케이에스미라클": [
+        {
+            "title": "[Prism]",
+            "url": "https://uma.inven.co.kr/db/chara/109301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "B",
+                "추입": "C"
+            }
+        }
+    ],
+    "사토노다이아몬드": [
+        {
+            "title": "[Natural Brilliance]",
+            "url": "https://uma.inven.co.kr/db/chara/106701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[슈발리에・블뢰]",
+            "url": "https://uma.inven.co.kr/db/chara/106703",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[각광・번영을 부르는 녹빛]",
+            "url": "https://uma.inven.co.kr/db/chara/106702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "골드쉽": [
+        {
+            "title": "[레드 스트라이프]",
+            "url": "https://uma.inven.co.kr/db/chara/100701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[La mode 564]",
+            "url": "https://uma.inven.co.kr/db/chara/100703",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[RUN! 럼블! 런처!!]",
+            "url": "https://uma.inven.co.kr/db/chara/100702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "B",
+                "추입": "A"
+            }
+        }
+    ],
+    "사일런스스즈카": [
+        {
+            "title": "[사일런트 이노센스]",
+            "url": "https://uma.inven.co.kr/db/chara/100201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "C",
+                "선입": "E",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[물결 사이의 에메랄드]",
+            "url": "https://uma.inven.co.kr/db/chara/100202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "C",
+                "선입": "E",
+                "추입": "G"
+            }
+        }
+    ],
+    "시리우스심볼리": [
+        {
+            "title": "[Féroce]",
+            "url": "https://uma.inven.co.kr/db/chara/107001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "C",
+                "추입": "E"
+            }
+        }
+    ],
+    "토센조던": [
+        {
+            "title": "[팝스☆조커]",
+            "url": "https://uma.inven.co.kr/db/chara/104801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "B",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Aurore☆Vacances]",
+            "url": "https://uma.inven.co.kr/db/chara/104802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "뱀부메모리": [
+        {
+            "title": "[흑철의 큰 뜻]",
+            "url": "https://uma.inven.co.kr/db/chara/105301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "C",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[Ultra☆Marine]",
+            "url": "https://uma.inven.co.kr/db/chara/105302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "C",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "E",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "마블러스선데이": [
+        {
+            "title": "[☆반짝★두근☆콩닥∞마블∞]",
+            "url": "https://uma.inven.co.kr/db/chara/105501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "니시노플라워": [
+        {
+            "title": "[티어드・페탈]",
+            "url": "https://uma.inven.co.kr/db/chara/105101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Sweet Juneberry]",
+            "url": "https://uma.inven.co.kr/db/chara/105102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "히시아마존": [
+        {
+            "title": "[아마조네스・라피스]",
+            "url": "https://uma.inven.co.kr/db/chara/101201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "C",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[Hungry Veil]",
+            "url": "https://uma.inven.co.kr/db/chara/101202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "C",
+                "추입": "A"
+            }
+        }
+    ],
+    "타니노김렛": [
+        {
+            "title": "[몸을 휘감는 케라브노스]",
+            "url": "https://uma.inven.co.kr/db/chara/108401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "D",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "히시미라클": [
+        {
+            "title": "[미라클 메이크업!]",
+            "url": "https://uma.inven.co.kr/db/chara/110601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "G",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "C",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "마치카네탄호이저": [
+        {
+            "title": "[팡파카 틸토트]",
+            "url": "https://uma.inven.co.kr/db/chara/106201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[블루・터뷸런스]",
+            "url": "https://uma.inven.co.kr/db/chara/106202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "D",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "E"
+            }
+        }
+    ],
+    "사쿠라바쿠신오": [
+        {
+            "title": "[사쿠라, 나아가라!]",
+            "url": "https://uma.inven.co.kr/db/chara/104101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[레드 핫☆리더]",
+            "url": "https://uma.inven.co.kr/db/chara/104102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "사쿠라로렐": [
+        {
+            "title": "[Saisir le rêve]",
+            "url": "https://uma.inven.co.kr/db/chara/107601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "사쿠라치요노오": [
+        {
+            "title": "[천하무쌍・만개한 벚꽃의 빛]",
+            "url": "https://uma.inven.co.kr/db/chara/106901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Fleur Enneigée]",
+            "url": "https://uma.inven.co.kr/db/chara/106902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "F",
+                "추입": "G"
+            }
+        }
+    ],
+    "메지로아르당": [
+        {
+            "title": "[클리노클로어・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/107101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "D"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "D",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Neige Émeraude]",
+            "url": "https://uma.inven.co.kr/db/chara/107102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "D"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "D",
+                "추입": "G"
+            }
+        }
+    ],
+    "트윈터보": [
+        {
+            "title": "[폭주! 터보 엔진]",
+            "url": "https://uma.inven.co.kr/db/chara/106601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "G",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "신코윈디": [
+        {
+            "title": "[Wicked Punk]",
+            "url": "https://uma.inven.co.kr/db/chara/104301",
+            "track_aptitude": {
+                "잔디": "F",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "B",
+                "추입": "F"
+            }
+        }
+    ],
+    "메지로라이언": [
+        {
+            "title": "[스트레이트・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/102701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[마가렛・라떼]",
+            "url": "https://uma.inven.co.kr/db/chara/102702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "아이네스후진": [
+        {
+            "title": "[올 타임・피버]",
+            "url": "https://uma.inven.co.kr/db/chara/103101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "C",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[MELTY GIFT]",
+            "url": "https://uma.inven.co.kr/db/chara/103102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "C",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "나리타브라이언": [
+        {
+            "title": "[Maverick]",
+            "url": "https://uma.inven.co.kr/db/chara/101601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[굶주린 늑대]",
+            "url": "https://uma.inven.co.kr/db/chara/101602",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "보드카": [
+        {
+            "title": "[와일드 톱기어]",
+            "url": "https://uma.inven.co.kr/db/chara/100801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "B",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[얼지 않는 아쿠아・비타이]",
+            "url": "https://uma.inven.co.kr/db/chara/100802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "B",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "다이와스칼렛": [
+        {
+            "title": "[톱・오브・블루]",
+            "url": "https://uma.inven.co.kr/db/chara/100901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[다홍색 뉘・에투알레]",
+            "url": "https://uma.inven.co.kr/db/chara/100902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        }
+    ],
+    "원더어큐트": [
+        {
+            "title": "[Butterfly Sting]",
+            "url": "https://uma.inven.co.kr/db/chara/110001",
+            "track_aptitude": {
+                "잔디": "G",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "D",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "C",
+                "추입": "E"
+            }
+        }
+    ],
+    "나카야마페스타": [
+        {
+            "title": "[사중구활]",
+            "url": "https://uma.inven.co.kr/db/chara/104901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "타마모크로스": [
+        {
+            "title": "[질풍신뢰]",
+            "url": "https://uma.inven.co.kr/db/chara/102101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[날뛰는 나루카미]",
+            "url": "https://uma.inven.co.kr/db/chara/102102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "A"
+            }
+        }
+    ],
+    "이나리원": [
+        {
+            "title": "[여우와 연이 있는 보랏빛]",
+            "url": "https://uma.inven.co.kr/db/chara/103401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "B",
+                "추입": "A"
+            }
+        },
+        {
+            "title": "[꿈의 카나하라]",
+            "url": "https://uma.inven.co.kr/db/chara/103402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "B",
+                "추입": "A"
+            }
+        }
+    ],
+    "야마닌제퍼": [
+        {
+            "title": "[Fluttertail Spirit]",
+            "url": "https://uma.inven.co.kr/db/chara/107801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "애스턴마짱": [
+        {
+            "title": "[Flare]",
+            "url": "https://uma.inven.co.kr/db/chara/108701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "아그네스디지털": [
+        {
+            "title": "[초특급! 풀컬러 특수 PP]",
+            "url": "https://uma.inven.co.kr/db/chara/101901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "B"
+            }
+        },
+        {
+            "title": "[아이리♡강시]",
+            "url": "https://uma.inven.co.kr/db/chara/101902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "메이쇼도토": [
+        {
+            "title": "[블루/레이징]",
+            "url": "https://uma.inven.co.kr/db/chara/105801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "B",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[Dot-o'-Lantern]",
+            "url": "https://uma.inven.co.kr/db/chara/105802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "B",
+                "추입": "E"
+            }
+        }
+    ],
+    "스마트팔콘": [
+        {
+            "title": "[앱설루트☆LOVE]",
+            "url": "https://uma.inven.co.kr/db/chara/104601",
+            "track_aptitude": {
+                "잔디": "E",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "D",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[황혼 트라이엄프]",
+            "url": "https://uma.inven.co.kr/db/chara/104602",
+            "track_aptitude": {
+                "잔디": "E",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "D",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "코파노리키": [
+        {
+            "title": "[음양팔괘☆운이 트이는 옷]",
+            "url": "https://uma.inven.co.kr/db/chara/109801",
+            "track_aptitude": {
+                "잔디": "F",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "메지로맥퀸": [
+        {
+            "title": "[엘레강스・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/101301",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "D",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[잔물결 페어 레이디]",
+            "url": "https://uma.inven.co.kr/db/chara/101303",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "D",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[엔드・오브・스카이]",
+            "url": "https://uma.inven.co.kr/db/chara/101302",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "F",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "D",
+                "추입": "F"
+            }
+        }
+    ],
+    "스페셜위크": [
+        {
+            "title": "[스페셜 드리머]",
+            "url": "https://uma.inven.co.kr/db/chara/100101",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[일본 최고의 총대장]",
+            "url": "https://uma.inven.co.kr/db/chara/100103",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[호핑♪비타민 하트]",
+            "url": "https://uma.inven.co.kr/db/chara/100102",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "타이키셔틀": [
+        {
+            "title": "[와일드・프론티어]",
+            "url": "https://uma.inven.co.kr/db/chara/101001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[Bubblegum☆Memories]",
+            "url": "https://uma.inven.co.kr/db/chara/101002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "E",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        }
+    ],
+    "메지로도베르": [
+        {
+            "title": "[트위스티드・라인]",
+            "url": "https://uma.inven.co.kr/db/chara/105901",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "B",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[바캉스・사피르]",
+            "url": "https://uma.inven.co.kr/db/chara/105902",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "F"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "B",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "파인모션": [
+        {
+            "title": "[Noble Seamair]",
+            "url": "https://uma.inven.co.kr/db/chara/102201",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "E",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[Titania]",
+            "url": "https://uma.inven.co.kr/db/chara/102202",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "C"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "E",
+                "추입": "C"
+            }
+        }
+    ],
+    "카렌짱": [
+        {
+            "title": "[피유・에클레르]",
+            "url": "https://uma.inven.co.kr/db/chara/103801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "D",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[삭월의 마・셰리]",
+            "url": "https://uma.inven.co.kr/db/chara/103802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "D",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "E",
+                "추입": "G"
+            }
+        }
+    ],
+    "후지키세키": [
+        {
+            "title": "[슈팅 스타・레뷔]",
+            "url": "https://uma.inven.co.kr/db/chara/100501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[쉭세・에투알]",
+            "url": "https://uma.inven.co.kr/db/chara/100502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "B",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "세이운스카이": [
+        {
+            "title": "[푸른 구름 서밍]",
+            "url": "https://uma.inven.co.kr/db/chara/102001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "D",
+                "추입": "E"
+            }
+        },
+        {
+            "title": "[수아레・드・샤통]",
+            "url": "https://uma.inven.co.kr/db/chara/102002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "B",
+                "선입": "D",
+                "추입": "E"
+            }
+        }
+    ],
+    "미호노부르봉": [
+        {
+            "title": "[MB-19890425]",
+            "url": "https://uma.inven.co.kr/db/chara/102601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "G",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[CODE: 글라사주]",
+            "url": "https://uma.inven.co.kr/db/chara/102602",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "A",
+                "선행": "E",
+                "선입": "G",
+                "추입": "G"
+            }
+        }
+    ],
+    "티엠오페라오": [
+        {
+            "title": "[오・솔레・수오!]",
+            "url": "https://uma.inven.co.kr/db/chara/101501",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[새해 창천・푸르른 현란]",
+            "url": "https://uma.inven.co.kr/db/chara/101502",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "E"
+            },
+            "distance_aptitude": {
+                "단거리": "G",
+                "마일": "E",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "C",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ],
+    "하루우라라": [
+        {
+            "title": "[화창한 1등상♪]",
+            "url": "https://uma.inven.co.kr/db/chara/105201",
+            "track_aptitude": {
+                "잔디": "G",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "A",
+                "추입": "B"
+            }
+        },
+        {
+            "title": "[새해의 화창함♪ 활짝 핀 벚꽃]",
+            "url": "https://uma.inven.co.kr/db/chara/105202",
+            "track_aptitude": {
+                "잔디": "G",
+                "더트": "A"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "A",
+                "중거리": "G",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "G",
+                "선입": "A",
+                "추입": "B"
+            }
+        }
+    ],
+    "오구리캡": [
+        {
+            "title": "[스타라이트 비트]",
+            "url": "https://uma.inven.co.kr/db/chara/100601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        },
+        {
+            "title": "[기적의 하얀 별]",
+            "url": "https://uma.inven.co.kr/db/chara/100602",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "D"
+            }
+        }
+    ],
+    "골드시티": [
+        {
+            "title": "[오센틱/1928]",
+            "url": "https://uma.inven.co.kr/db/chara/104001",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[코스모스 단차트리체]",
+            "url": "https://uma.inven.co.kr/db/chara/104002",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "D"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "B",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "F",
+                "선행": "A",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "심볼리루돌프": [
+        {
+            "title": "[로드・오브・엠퍼러]",
+            "url": "https://uma.inven.co.kr/db/chara/101701",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[밝은 달의 활잡이]",
+            "url": "https://uma.inven.co.kr/db/chara/101702",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "E",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "히시아케보노": [
+        {
+            "title": "[보노☆알라모다]",
+            "url": "https://uma.inven.co.kr/db/chara/102801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "A",
+                "마일": "B",
+                "중거리": "F",
+                "장거리": "G"
+            },
+            "strategy_aptitude": {
+                "도주": "B",
+                "선행": "A",
+                "선입": "C",
+                "추입": "G"
+            }
+        }
+    ],
+    "마치카네후쿠키타루": [
+        {
+            "title": "[운기상승☆행복만래]",
+            "url": "https://uma.inven.co.kr/db/chara/105601",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "F"
+            }
+        },
+        {
+            "title": "[길조・초가을 바람]",
+            "url": "https://uma.inven.co.kr/db/chara/105602",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "F"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "C",
+                "중거리": "A",
+                "장거리": "A"
+            },
+            "strategy_aptitude": {
+                "도주": "G",
+                "선행": "B",
+                "선입": "A",
+                "추입": "F"
+            }
+        }
+    ],
+    "엘콘도르파사": [
+        {
+            "title": "[엘☆Número 1]",
+            "url": "https://uma.inven.co.kr/db/chara/101401",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        },
+        {
+            "title": "[쿠쿨칸・몽크]",
+            "url": "https://uma.inven.co.kr/db/chara/101402",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "B"
+            },
+            "distance_aptitude": {
+                "단거리": "F",
+                "마일": "A",
+                "중거리": "A",
+                "장거리": "B"
+            },
+            "strategy_aptitude": {
+                "도주": "E",
+                "선행": "A",
+                "선입": "A",
+                "추입": "C"
+            }
+        }
+    ],
+    "에어그루브": [
+        {
+            "title": "[엠프리스 로드]",
+            "url": "https://uma.inven.co.kr/db/chara/101801",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        },
+        {
+            "title": "[퀘르쿠스・키윌리스]",
+            "url": "https://uma.inven.co.kr/db/chara/101802",
+            "track_aptitude": {
+                "잔디": "A",
+                "더트": "G"
+            },
+            "distance_aptitude": {
+                "단거리": "C",
+                "마일": "B",
+                "중거리": "A",
+                "장거리": "E"
+            },
+            "strategy_aptitude": {
+                "도주": "D",
+                "선행": "A",
+                "선입": "A",
+                "추입": "G"
+            }
+        }
+    ]
+}
